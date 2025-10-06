@@ -1,5 +1,5 @@
 
-# Optika Task Management
+# Task Management
 
 A basic Task Management Dashboard that allows users to create, view, update, and delete tasks. This application is built with React, NodeJS, Go, MongoDB, and Redis. 
 
